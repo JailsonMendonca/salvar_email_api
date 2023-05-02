@@ -1,0 +1,11 @@
+{
+"version": 2,
+"name": "deadline",
+"builds": [
+              {
+              "src": "package.json",
+              "use": "@vercel/next"
+              }
+]
+            
+}
